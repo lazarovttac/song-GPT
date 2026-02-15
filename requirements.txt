@@ -1,0 +1,13 @@
+playwright
+requests
+beautifulsoup4
+nest-asyncio
+unidecode
+langdetect
+
+# To use a GPU on Windows: PyTorch CUDA wheels exist only for Python 3.8–3.12.
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+torch
+tiktoken
+tqdm
+huggingface_hub
