@@ -1,6 +1,6 @@
 # Song-GPT
 
-Song-GPT is a decoder-only Transformer (GPT-style) trained from scratch with PyTorch to generate English song lyrics.
+Song-GPT is a decoder-only Transformer (GPT-style) trained from scratch with PyTorch, following [Gabriel Merlo's](https://github.com/gabmerlo) [tutorial](https://youtu.be/QK4AHZTVf68?si=fwXoaxvqemITah6K). Unlike the original, this model is trained on English song lyrics.
 
 ## What is in this repository
 
